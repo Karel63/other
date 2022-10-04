@@ -1,0 +1,16 @@
+<recipes>
+    <recipe id="1">
+        <name>tea</name>
+        <decs>Lovely drink</decs>
+        <items>
+            <item order="1" name="water" amount="200" units="ml"/>
+            <item order="2" name="Earl Grey" amount="1" units="ks"/>
+            <item order="3" name="milk" amount="20" units="ml"/>
+        </items>
+        <steps>
+            <step time="2" units="min" items="[1]">bla bla bla</step>
+            <step time="3" units="min" items="[2]">bla bla bla bla</step>
+            <step time="15" units="sec" items="[3]">bla bla</step>
+        </steps>
+    <recipe>
+</recipes>
