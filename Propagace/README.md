@@ -1,21 +1,21 @@
 # **Propagační materiály**
 
-## Informační technologie leták
+## Informační technologie - leták
 - [Odkaz na leták](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
-![UmlClassDiagram](http://url/to/img.png) 
+![LetakInformacniTechnologie](http://url/to/img.png) 
 
-## Grafický design leták
-- [Odkaz na Block.php](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
-![UmlClassDiagram](http://url/to/img.png)
+## Grafický design - leták
+- [Odkaz na leták](https://github.com/Karel63/other/blob/main/Propagace/GrafDes.png)
+![LetakGrafickyDesign](https://github.com/Karel63/other/blob/main/Propagace/GrafDes.png)
 
 ## Billboard
-- [Odkaz na Block.php](https://github.com/Karel63/other/blob/main/Propagace/Billboard.png)
-![UmlClassDiagram](https://github.com/Karel63/other/blob/main/Propagace/Billboard.png)
+- [Odkaz na Billboard](https://github.com/Karel63/other/blob/main/Propagace/Billboard.png)
+![Billboard](https://github.com/Karel63/other/blob/main/Propagace/Billboard.png)
 
 ## Hrnek
-- [Odkaz na Block.php](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
-![UmlClassDiagram](http://url/to/img.png)
+- [Odkaz na hrnek](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
+![Hrnek](http://url/to/img.png)
 
 ## Čepice
-- [Odkaz na Block.php](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
-![UmlClassDiagram](http://url/to/img.png) 
+- [Odkaz na čepici](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
+![Čepice](http://url/to/img.png) 
