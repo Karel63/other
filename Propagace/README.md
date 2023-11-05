@@ -1,8 +1,8 @@
 # **Propagační materiály**
 
 ## Informační technologie - leták
-- [Odkaz na leták](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
-![LetakInformacniTechnologie](http://url/to/img.png) 
+- [Odkaz na leták](https://github.com/Karel63/other/blob/main/Propagace/InfoTech.png)
+![LetakInformacniTechnologie](https://github.com/Karel63/other/blob/main/Propagace/InfoTech.png) 
 
 ## Grafický design - leták
 - [Odkaz na leták](https://github.com/Karel63/other/blob/main/Propagace/GrafDes.png)
