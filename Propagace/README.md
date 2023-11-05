@@ -13,8 +13,8 @@
 ![Billboard](https://github.com/Karel63/other/blob/main/Propagace/Billboard.png)
 
 ## Hrnek
-- [Odkaz na hrnek](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
-![Hrnek](http://url/to/img.png)
+- [Odkaz na hrnek](https://github.com/Karel63/other/blob/main/Propagace/hrnek.png)
+![Hrnek](https://github.com/Karel63/other/blob/main/Propagace/hrnek.png)
 
 ## Čepice
 - [Odkaz na čepici](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
