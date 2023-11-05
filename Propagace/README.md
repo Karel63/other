@@ -17,5 +17,5 @@
 ![Hrnek](https://github.com/Karel63/other/blob/main/Propagace/hrnek.png)
 
 ## Čepice
-- [Odkaz na čepici](https://github.com/Karel63/Projects/blob/main/Hotel/Faze0/hotel.fig)
-![Čepice](http://url/to/img.png) 
+- [Odkaz na čepici](https://github.com/Karel63/other/blob/main/Propagace/cepice.png)
+![Čepice](https://github.com/Karel63/other/blob/main/Propagace/cepice.png) 
